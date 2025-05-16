@@ -66,12 +66,6 @@
 
 ---
 
-### 📊 Github Stats
-
-[![Github Stats](![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-027&show_icons=true&theme=shadow_green))]
-
----
-
 ### 🌐 Let's Connect
 
 - 🌱 [GitHub](https://github.com/Harry-027)
